@@ -1,0 +1,8 @@
+Hello {
+    text: Welcome to the app!
+    color: blue
+    font-size: 50
+    text: hello world
+    color: red
+    font-size: 50
+}
